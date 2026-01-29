@@ -14,3 +14,4 @@ For øyeblikket bare en liten JS-fil som skriver ut en hilsen + dato.
 // hello.js
 console.log("Hei Solana! Dette er en test-fil.");
 console.log("Aktivitet oppdatert:", new Date().toLocaleDateString());
+```
