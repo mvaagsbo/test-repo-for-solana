@@ -10,6 +10,7 @@ For øyeblikket bare en liten JS-fil som skriver ut en hilsen + dato.
 - Bygge videre mot enklere on-chain programmer
 
 ## Nåværende innhold
+Akkurat nå er det bare en enkel testfil som logger en hilsen og dagens dato:
 ```js
 // hello.js
 console.log("Hei Solana! Dette er en test-fil.");
